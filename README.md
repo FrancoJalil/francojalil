@@ -1,5 +1,10 @@
 ### Hi there 👋
-contact: jalilfranco9@gmail.com
+
+### Contact:
+jalilfranco9@gmail.com
+
+### Skills:
+Python | Django | Git & GitHub
 
 <!--
 **FrancoJalil/francojalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

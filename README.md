@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Franco!
-👩🏻‍💻 Software Developer<br/>
+👩🏻‍💻 Software Developer | Full Stack Developer<br/>
 
 # 💻 Tech Stack
 
